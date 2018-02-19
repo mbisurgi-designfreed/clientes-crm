@@ -1,0 +1,12 @@
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\bin\Debug\CLIENTES.exe.config
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\bin\Debug\CLIENTES.exe
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\bin\Debug\CLIENTES.pdb
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\obj\Debug\CLIENTES.exe
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\obj\Debug\CLIENTES.pdb
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\bin\Debug\CLIENTES.exe.manifest
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\bin\Debug\CLIENTES.application
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\obj\Debug\CLIENTES.exe.manifest
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\CLIENTES\CLIENTES\obj\Debug\CLIENTES.application
+D:\Trabajo\CLIENTES\CLIENTES\bin\Debug\CLIENTES.exe.config
+D:\Trabajo\CLIENTES\CLIENTES\obj\Debug\CLIENTES.exe
+D:\Trabajo\CLIENTES\CLIENTES\obj\Debug\CLIENTES.pdb
